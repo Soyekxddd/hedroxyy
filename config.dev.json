@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "GOAT BOT", 
+  "nickNameBot": "krixh bot", 
   "prefix": ".",
   "adminOnly": {
     "enable": true,
@@ -20,7 +20,7 @@
   },
   "adminBot": [
     "your uid..!",
-    ""
+    "61552062231831"
   ],
   "whiteListMode": {
     "enable": false,
